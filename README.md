@@ -18,7 +18,7 @@ This project sets up [Acryl DataHub](https://datahubproject.io/) on a virtual ma
 ```bash
 git clone https://github.com/your-username/datahub-project.git
 cd datahub-project
-
+```
 ### 2. Run DataHub using Docker
 
 `datahub docker quickstart`
